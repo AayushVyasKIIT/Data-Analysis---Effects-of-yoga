@@ -1,86 +1,86 @@
 ,yoga,Age,Profession,PracYears,Stress Relief,Lifestyle,Medium,Spiritual Or Physical,Induction in Schools,Mental State,Chronic Disease,OverPhysical,Refering
-0,4,20,Student,10,4,4,Trainer,Both,4,4,4,1,1
-1,2,20,Student,2,3,4,IG Tv,Physical exercise,3,4,2,1,1
-2,3,20,Retired,5,3,3,YouTube,Physical exercise,3,2,2,0,0
-3,1,19,Student,1,4,3,Trainer,Both,3,3,3,0,0
-4,0,20,Student,0,2,3,Trainer,Both,2,3,1,0,0
-5,2,21,Student,2,3,3,YouTube,Physical exercise,4,3,3,1,0
-6,1,20,Student,1,4,3,Internet,Both,4,4,3,1,0
-7,0,20,Student,0,3,3,YouTube,Physical exercise,3,3,3,0,1
-8,2,30,Working,2,0,3,Internet,Physical exercise,1,1,2,0,1
-9,1,20,Student,1,3,1,YouTube,Personal spiritual path,3,3,3,0,1
-10,2,20,Student,2,3,3,Trainer,Personal spiritual path,3,3,2,0,1
-11,3,21,Student,5,3,4,Trainer,Both,4,3,2,1,1
-12,1,19,Student,0.5,4,4,YouTube,Personal spiritual path,4,4,4,1,1
-13,4,21,Student,10,2,2,Trainer,Physical exercise,2,3,2,0,1
-14,1,19,Student,1,4,4,YouTube,Both,4,4,4,0,1
-15,0,20,Student,0,3,3,Trainer,Both,3,4,3,0,1
-16,4,20,Student,10,3,3,Trainer,Both,3,3,3,0,0
-17,0,20,Student,0,3,4,Trainer,Both,3,3,3,1,1
-18,1,20,Student,1,4,3,Trainer,Both,3,3,3,1,1
-19,3,19,Student,3,3,3,Trainer,Both,2,3,2,0,1
-20,0,20,Student,0,3,3,Trainer,Both,4,4,3,1,1
-21,3,20,Student,3,3,4,Trainer,Physical exercise,4,3,3,0,1
-22,0,20,Student,0,4,4,YouTube,Personal spiritual path,4,4,3,1,1
-23,0,20,Student,0,1,1,YouTube,Both,3,2,2,0,0
-24,0,21,Student,0,3,3,Televison,Both,4,3,3,1,1
-25,3,20,Student,4,3,3,Televison,Physical exercise,3,3,3,0,1
-26,2,18,Student,2,4,4,YouTube,Both,4,4,4,1,1
-27,3,21,Student,5,2,2,YouTube,Physical exercise,0,2,1,0,0
-28,1,20,Student,1,3,3,Televison,Physical exercise,2,3,3,0,1
-29,0,20,Student,0,3,3,Trainer,Physical exercise,2,3,3,0,1
-30,2,21,Student,2,0,0,YouTube,Both,0,0,0,1,1
-31,1,20,Student,1,4,4,YouTube,Physical exercise,3,3,4,1,1
-32,2,21,Student,2,3,3,YouTube,Personal spiritual path,3,3,3,0,1
-33,4,19,Student,7,4,4,YouTube,Physical exercise,4,4,4,0,1
-34,3,20,Student,4,2,2,Trainer,Physical exercise,4,2,2,0,0
-35,3,20,Student,5,2,2,YouTube,Physical exercise,2,2,2,1,1
-36,0,21,Student,0,0,0,Trainer,Both,4,0,4,0,1
-37,0,21,Student,0,2,3,Internet,Physical exercise,0,4,3,0,1
-38,3,20,Student,3,3,3,YouTube,Physical exercise,4,3,3,0,1
-39,4,50,Working,10,4,3,Trainer,Both,3,3,4,1,1
-40,1,20,Student,1,4,3,YouTube,Personal spiritual path,1,4,4,0,1
-41,4,19,Student,7,4,3,Trainer,Both,3,3,3,1,1
-42,4,21,Student,14,2,2,Trainer,Physical exercise,3,2,1,0,1
-43,0,20,Student,0,2,2,YouTube,Both,2,2,4,1,0
-44,1,22,Student,1,3,3,YouTube,Both,3,3,2,1,1
-45,2,22,Student,2,4,4,YouTube,Physical exercise,4,4,4,1,1
-46,4,55,Working,30,4,2,Books,Both,4,4,2,1,1
-47,4,67,Working,9,0,0,YouTube,Personal spiritual path,0,0,0,0,0
-48,0,20,Student,0,3,3,YouTube,Physical exercise,4,3,2,0,1
-49,1,21,Student,1,4,3,YouTube,Physical exercise,3,3,3,1,1
-50,3,20,Student,5,3,3,YouTube,Personal spiritual path,3,3,3,1,1
-51,1,20,Student,1,1,1,Internet,Both,0,0,0,0,0
-52,3,27,Working,3,3,3,YouTube,Both,3,3,3,1,1
-53,4,30,Working,12,4,4,YouTube,Both,4,4,4,1,1
-54,1,20,Student,1,4,4,Trainer,Both,4,4,4,1,1
-55,1,40,Working,0.5,3,3,YouTube,Physical exercise,0,3,0,1,1
-56,4,51,Working,40,4,4,Trainer,Both,4,4,3,1,1
-57,1,35,Working,1,3,3,Trainer,Physical exercise,4,4,3,0,1
-58,1,47,Working,1,3,3,Televison,Both,3,3,3,0,1
-59,1,42,Working,1,3,3,YouTube,Physical exercise,3,3,3,1,1
-60,3,48,Working,4,3,3,Internet,Physical exercise,3,2,1,1,0
-61,3,68,Retired,4,3,3,Televison,Physical exercise,3,3,2,1,0
-62,4,78,Retired,10,3,3,Televison,Personal spiritual path,3,3,3,1,1
-63,0,48,Working,0,4,4,YouTube,Physical exercise,4,4,4,1,1
-64,2,56,Working,1.5,4,4,Trainer,Personal spiritual path,4,4,4,1,1
-65,2,20,Student,2,3,3,Trainer,Physical exercise,4,4,3,0,1
-66,1,20,Student,1,2,3,YouTube,Physical exercise,2,2,2,0,1
-67,0,19,Student,0,4,3,YouTube,Both,3,4,4,1,1
-68,4,51,Working,20,4,4,YouTube,Both,4,4,4,1,1
-69,4,46,Working,20,4,4,YouTube,Both,4,4,4,1,1
-70,1,20,Student,0.2,2,2,YouTube,Physical exercise,4,4,3,0,1
-71,1,47,Working,1,3,3,Trainer,Physical exercise,3,3,2,0,0
-72,4,18,Student,7,4,3,Books,Both,4,3,2,1,1
-73,1,12,Student,1,4,4,Televison,Both,3,4,3,1,1
-74,2,47,Working,2,3,3,Internet,Both,4,3,4,1,1
-75,2,21,Student,2,2,2,YouTube,Both,4,4,1,0,0
-76,3,17,Student,3,4,3,Internet,Both,4,3,2,0,1
-77,1,17,Student,0.8,3,4,Trainer,Physical exercise,3,4,4,0,0
-78,1,17,Student,1,3,3,YouTube,Physical exercise,3,4,3,1,1
-79,3,17,Student,4,3,3,Trainer,Both,4,3,4,0,1
-80,2,17,Student,2,2,2,Internet,Both,3,2,3,1,0
-81,1,21,Student,1,3,3,YouTube,Physical exercise,2,3,2,1,1
-82,4,42,Working,18,3,3,YouTube,Both,3,3,3,1,1
-83,3,19,Student,3,4,4,Trainer,Both,3,3,4,1,1
-84,4,56,Working,10,4,4,Trainer,Personal spiritual path,4,4,4,1,1
+0,4.0,20,Student,10.0,4,4,Trainer,Both,4,4,4,1,1
+1,2.0,20,Student,2.0,3,4,IG Tv,Physical exercise,3,4,2,1,1
+2,3.0,20,Retired,5.0,3,3,YouTube,Physical exercise,3,2,2,0,0
+3,1.0,19,Student,1.0,4,3,Trainer,Both,3,3,3,0,0
+4,0.0,20,Student,0.0,2,3,Trainer,Both,2,3,1,0,0
+5,2.0,21,Student,2.0,3,3,YouTube,Physical exercise,4,3,3,1,0
+6,1.0,20,Student,1.0,4,3,Internet,Both,4,4,3,1,0
+7,0.0,20,Student,0.0,3,3,YouTube,Physical exercise,3,3,3,0,1
+8,2.0,30,Working,2.0,0,3,Internet,Physical exercise,1,1,2,0,1
+9,1.0,20,Student,1.0,3,1,YouTube,Personal spiritual path,3,3,3,0,1
+10,2.0,20,Student,2.0,3,3,Trainer,Personal spiritual path,3,3,2,0,1
+11,3.0,21,Student,5.0,3,4,Trainer,Both,4,3,2,1,1
+12,1.0,19,Student,0.5,4,4,YouTube,Personal spiritual path,4,4,4,1,1
+13,4.0,21,Student,10.0,2,2,Trainer,Physical exercise,2,3,2,0,1
+14,1.0,19,Student,1.0,4,4,YouTube,Both,4,4,4,0,1
+15,0.0,20,Student,0.0,3,3,Trainer,Both,3,4,3,0,1
+16,4.0,20,Student,10.0,3,3,Trainer,Both,3,3,3,0,0
+17,0.0,20,Student,0.0,3,4,Trainer,Both,3,3,3,1,1
+18,1.0,20,Student,1.0,4,3,Trainer,Both,3,3,3,1,1
+19,3.0,19,Student,3.0,3,3,Trainer,Both,2,3,2,0,1
+20,0.0,20,Student,0.0,3,3,Trainer,Both,4,4,3,1,1
+21,3.0,20,Student,3.0,3,4,Trainer,Physical exercise,4,3,3,0,1
+22,0.0,20,Student,0.0,4,4,YouTube,Personal spiritual path,4,4,3,1,1
+23,0.0,20,Student,0.0,1,1,YouTube,Both,3,2,2,0,0
+24,0.0,21,Student,0.0,3,3,Televison,Both,4,3,3,1,1
+25,3.0,20,Student,4.0,3,3,Televison,Physical exercise,3,3,3,0,1
+26,2.0,18,Student,2.0,4,4,YouTube,Both,4,4,4,1,1
+27,3.0,21,Student,5.0,2,2,YouTube,Physical exercise,0,2,1,0,0
+28,1.0,20,Student,1.0,3,3,Televison,Physical exercise,2,3,3,0,1
+29,0.0,20,Student,0.0,3,3,Trainer,Physical exercise,2,3,3,0,1
+30,2.0,21,Student,2.0,0,0,YouTube,Both,0,0,0,1,1
+31,1.0,20,Student,1.0,4,4,YouTube,Physical exercise,3,3,4,1,1
+32,2.0,21,Student,2.0,3,3,YouTube,Personal spiritual path,3,3,3,0,1
+33,4.0,19,Student,7.0,4,4,YouTube,Physical exercise,4,4,4,0,1
+34,3.0,20,Student,4.0,2,2,Trainer,Physical exercise,4,2,2,0,0
+35,3.0,20,Student,5.0,2,2,YouTube,Physical exercise,2,2,2,1,1
+36,0.0,21,Student,0.0,0,0,Trainer,Both,4,0,4,0,1
+37,0.0,21,Student,0.0,2,3,Internet,Physical exercise,0,4,3,0,1
+38,3.0,20,Student,3.0,3,3,YouTube,Physical exercise,4,3,3,0,1
+39,4.0,50,Working,10.0,4,3,Trainer,Both,3,3,4,1,1
+40,1.0,20,Student,1.0,4,3,YouTube,Personal spiritual path,1,4,4,0,1
+41,4.0,19,Student,7.0,4,3,Trainer,Both,3,3,3,1,1
+42,4.0,21,Student,14.0,2,2,Trainer,Physical exercise,3,2,1,0,1
+43,0.0,20,Student,0.0,2,2,YouTube,Both,2,2,4,1,0
+44,1.0,22,Student,1.0,3,3,YouTube,Both,3,3,2,1,1
+45,2.0,22,Student,2.0,4,4,YouTube,Physical exercise,4,4,4,1,1
+46,4.0,55,Working,30.0,4,2,Books,Both,4,4,2,1,1
+47,4.0,67,Working,9.0,0,0,YouTube,Personal spiritual path,0,0,0,0,0
+48,0.0,20,Student,0.0,3,3,YouTube,Physical exercise,4,3,2,0,1
+49,1.0,21,Student,1.0,4,3,YouTube,Physical exercise,3,3,3,1,1
+50,3.0,20,Student,5.0,3,3,YouTube,Personal spiritual path,3,3,3,1,1
+51,1.0,20,Student,1.0,1,1,Internet,Both,0,0,0,0,0
+52,3.0,27,Working,3.0,3,3,YouTube,Both,3,3,3,1,1
+53,4.0,30,Working,12.0,4,4,YouTube,Both,4,4,4,1,1
+54,1.0,20,Student,1.0,4,4,Trainer,Both,4,4,4,1,1
+55,1.0,40,Working,0.5,3,3,YouTube,Physical exercise,0,3,0,1,1
+56,4.0,51,Working,40.0,4,4,Trainer,Both,4,4,3,1,1
+57,1.0,35,Working,1.0,3,3,Trainer,Physical exercise,4,4,3,0,1
+58,1.0,47,Working,1.0,3,3,Televison,Both,3,3,3,0,1
+59,1.0,42,Working,1.0,3,3,YouTube,Physical exercise,3,3,3,1,1
+60,3.0,48,Working,4.0,3,3,Internet,Physical exercise,3,2,1,1,0
+61,3.0,68,Retired,4.0,3,3,Televison,Physical exercise,3,3,2,1,0
+62,4.0,78,Retired,10.0,3,3,Televison,Personal spiritual path,3,3,3,1,1
+63,0.0,48,Working,0.0,4,4,YouTube,Physical exercise,4,4,4,1,1
+64,2.0,56,Working,1.5,4,4,Trainer,Personal spiritual path,4,4,4,1,1
+65,2.0,20,Student,2.0,3,3,Trainer,Physical exercise,4,4,3,0,1
+66,1.0,20,Student,1.0,2,3,YouTube,Physical exercise,2,2,2,0,1
+67,0.0,19,Student,0.0,4,3,YouTube,Both,3,4,4,1,1
+68,4.0,51,Working,20.0,4,4,YouTube,Both,4,4,4,1,1
+69,4.0,46,Working,20.0,4,4,YouTube,Both,4,4,4,1,1
+70,1.0,20,Student,0.2,2,2,YouTube,Physical exercise,4,4,3,0,1
+71,1.0,47,Working,1.0,3,3,Trainer,Physical exercise,3,3,2,0,0
+72,4.0,18,Student,7.0,4,3,Books,Both,4,3,2,1,1
+73,1.0,12,Student,1.0,4,4,Televison,Both,3,4,3,1,1
+74,2.0,47,Working,2.0,3,3,Internet,Both,4,3,4,1,1
+75,2.0,21,Student,2.0,2,2,YouTube,Both,4,4,1,0,0
+76,3.0,17,Student,3.0,4,3,Internet,Both,4,3,2,0,1
+77,1.0,17,Student,0.8,3,4,Trainer,Physical exercise,3,4,4,0,0
+78,1.0,17,Student,1.0,3,3,YouTube,Physical exercise,3,4,3,1,1
+79,3.0,17,Student,4.0,3,3,Trainer,Both,4,3,4,0,1
+80,2.0,17,Student,2.0,2,2,Internet,Both,3,2,3,1,0
+81,1.0,21,Student,1.0,3,3,YouTube,Physical exercise,2,3,2,1,1
+82,4.0,42,Working,18.0,3,3,YouTube,Both,3,3,3,1,1
+83,3.0,19,Student,3.0,4,4,Trainer,Both,3,3,4,1,1
+84,4.0,56,Working,10.0,4,4,Trainer,Personal spiritual path,4,4,4,1,1
